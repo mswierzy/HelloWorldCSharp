@@ -1,0 +1,7 @@
+D:\prywatne\C#\GitHelloWorld\HelloWorldCSharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\prywatne\C#\GitHelloWorld\HelloWorldCSharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\prywatne\C#\GitHelloWorld\HelloWorldCSharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\prywatne\C#\GitHelloWorld\HelloWorldCSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+D:\prywatne\C#\GitHelloWorld\HelloWorldCSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\prywatne\C#\GitHelloWorld\HelloWorldCSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\prywatne\C#\GitHelloWorld\HelloWorldCSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
